@@ -1,6 +1,6 @@
 # 🤖 Pet OS Research Assistant
 
-**Author:** Sachin Kumar (QuantLogic India)  
+**Author:** Siddhartha Kumar (QuantLogic India)  
 **Status:** v2.0 (Alpha)  
 **Stack:** Python, HackerNews API, Telegram Bot
 
